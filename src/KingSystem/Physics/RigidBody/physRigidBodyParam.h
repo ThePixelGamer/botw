@@ -2,9 +2,9 @@
 
 #include <container/seadBuffer.h>
 #include <prim/seadRuntimeTypeInfo.h>
-#include <utl/aglParameter.h>
-#include <utl/aglParameterList.h>
-#include <utl/aglParameterObj.h>
+#include <utility/aglParameter.h>
+#include <utility/aglParameterList.h>
+#include <utility/aglParameterObj.h>
 #include "KingSystem/Physics/RigidBody/Shape/physShape.h"
 #include "KingSystem/Physics/physDefines.h"
 #include "KingSystem/Utils/Types.h"

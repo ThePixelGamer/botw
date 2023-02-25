@@ -1,9 +1,9 @@
 #pragma once
 
-#include <utl/aglParameter.h>
-#include <utl/aglParameterObj.h>
 #include <container/seadBuffer.h>
 #include <prim/seadSafeString.h>
+#include <utility/aglParameter.h>
+#include <utility/aglParameterObj.h>
 #include "KingSystem/Physics/physDefines.h"
 
 namespace ksys::phys {

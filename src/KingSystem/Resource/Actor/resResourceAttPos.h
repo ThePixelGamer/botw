@@ -1,7 +1,7 @@
 #pragma once
 
-#include <utl/aglParameter.h>
-#include <utl/aglParameterObj.h>
+#include <utility/aglParameter.h>
+#include <utility/aglParameterObj.h>
 #include "KingSystem/Utils/Types.h"
 
 namespace ksys::res {

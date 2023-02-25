@@ -1,11 +1,11 @@
 #pragma once
 
-#include <utl/aglParameter.h>
-#include <utl/aglParameterIO.h>
-#include <utl/aglParameterList.h>
-#include <utl/aglParameterObj.h>
 #include <container/seadBuffer.h>
 #include <resource/seadResource.h>
+#include <utility/aglParameter.h>
+#include <utility/aglParameterIO.h>
+#include <utility/aglParameterList.h>
+#include <utility/aglParameterObj.h>
 #include "KingSystem/Utils/Types.h"
 
 namespace ksys::phys {

@@ -1,8 +1,8 @@
 #pragma once
 
-#include <utl/aglParameter.h>
-#include <utl/aglParameterObj.h>
 #include <hostio/seadHostIONode.h>
+#include <utility/aglParameter.h>
+#include <utility/aglParameterObj.h>
 
 namespace ksys::phys {
 

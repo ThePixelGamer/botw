@@ -1,9 +1,9 @@
 #include "KingSystem/ActorSystem/Awareness/actAwareness.h"
-#include <utl/aglParameter.h>
-#include <utl/aglResParameter.h>
 #include <container/seadSafeArray.h>
 #include <cstring>
 #include <prim/seadScopedLock.h>
+#include <utility/aglParameter.h>
+#include <utility/aglResParameter.h>
 #include "KingSystem/ActorSystem/Awareness/actAwarenessDefs.h"
 #include "KingSystem/ActorSystem/Awareness/actAwarenessInstance.h"
 #include "KingSystem/Resource/resHandle.h"

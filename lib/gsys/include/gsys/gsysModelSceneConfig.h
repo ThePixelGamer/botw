@@ -1,16 +1,16 @@
 #pragma once
 
-#include <env/aglEnvObjBuffer.h>
-#include <env/aglEnvObjMgr.h>
-#include <env/aglEnvObjSetMgr.h>
-#include <utl/aglParameter.h>
-#include <utl/aglParameterIO.h>
-#include <utl/aglParameterObj.h>
 #include <basis/seadTypes.h>
 #include <container/seadSafeArray.h>
+#include <environment/aglEnvObjBuffer.h>
+#include <environment/aglEnvObjMgr.h>
+#include <environment/aglEnvObjSetMgr.h>
 #include <hostio/seadHostIONode.h>
 #include <math/seadVector.h>
 #include <prim/seadSafeString.h>
+#include <utility/aglParameter.h>
+#include <utility/aglParameterIO.h>
+#include <utility/aglParameterObj.h>
 
 namespace gsys {
 

@@ -1,9 +1,9 @@
 #pragma once
 
-#include <utl/aglParameter.h>
-#include <utl/aglParameterList.h>
-#include <utl/aglParameterObj.h>
-#include <utl/aglResParameter.h>
+#include <utility/aglParameter.h>
+#include <utility/aglParameterList.h>
+#include <utility/aglParameterObj.h>
+#include <utility/aglResParameter.h>
 #include <array>
 #include <basis/seadTypes.h>
 #include <container/seadBuffer.h>

@@ -1,8 +1,8 @@
 #pragma once
 
-#include <utl/aglParameter.h>
-#include <utl/aglParameterIO.h>
-#include <utl/aglParameterObj.h>
+#include <utility/aglParameter.h>
+#include <utility/aglParameterIO.h>
+#include <utility/aglParameterObj.h>
 #include "KingSystem/Resource/resResource.h"
 #include "KingSystem/Utils/ParamIO.h"
 
