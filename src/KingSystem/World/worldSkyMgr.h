@@ -1,7 +1,7 @@
 #pragma once
 
-#include <agl/utl/aglParameter.h>
-#include <agl/utl/aglParameterObj.h>
+#include <utl/aglParameter.h>
+#include <utl/aglParameterObj.h>
 #include <container/seadSafeArray.h>
 #include <math/seadVector.h>
 #include "KingSystem/Utils/Types.h"

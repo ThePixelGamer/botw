@@ -1,8 +1,8 @@
 #pragma once
 
-#include <agl/utl/aglParameter.h>
-#include <agl/utl/aglParameterIO.h>
-#include <agl/utl/aglParameterObj.h>
+#include <utl/aglParameter.h>
+#include <utl/aglParameterIO.h>
+#include <utl/aglParameterObj.h>
 #include <container/seadSafeArray.h>
 #include <hostio/seadHostIONode.h>
 #include <math/seadVector.h>

@@ -1,6 +1,6 @@
 #pragma once
 
-#include <agl/utl/aglScreenShotMgr.h>
+#include <utl/aglScreenShotMgr.h>
 #include <basis/seadNew.h>
 #include <heap/seadDisposer.h>
 #include <prim/seadSafeString.h>

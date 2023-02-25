@@ -1,5 +1,5 @@
-#include <agl/utl/aglParameter.h>
-#include <agl/utl/aglParameterObj.h>
+#include <utl/aglParameter.h>
+#include <utl/aglParameterObj.h>
 #include <container/seadBuffer.h>
 #include <prim/seadEnum.h>
 #include "KingSystem/Resource/resResource.h"

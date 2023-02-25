@@ -1,6 +1,6 @@
 #pragma once
 
-#include <agl/env/aglEnvObj.h>
+#include <env/aglEnvObj.h>
 
 namespace gsys {
 

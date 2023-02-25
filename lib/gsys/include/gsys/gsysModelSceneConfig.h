@@ -1,11 +1,11 @@
 #pragma once
 
-#include <agl/env/aglEnvObjBuffer.h>
-#include <agl/env/aglEnvObjMgr.h>
-#include <agl/env/aglEnvObjSetMgr.h>
-#include <agl/utl/aglParameter.h>
-#include <agl/utl/aglParameterIO.h>
-#include <agl/utl/aglParameterObj.h>
+#include <env/aglEnvObjBuffer.h>
+#include <env/aglEnvObjMgr.h>
+#include <env/aglEnvObjSetMgr.h>
+#include <utl/aglParameter.h>
+#include <utl/aglParameterIO.h>
+#include <utl/aglParameterObj.h>
 #include <basis/seadTypes.h>
 #include <container/seadSafeArray.h>
 #include <hostio/seadHostIONode.h>

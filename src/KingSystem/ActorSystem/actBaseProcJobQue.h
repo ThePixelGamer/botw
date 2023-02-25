@@ -1,6 +1,6 @@
 #pragma once
 
-#include <agl/utl/aglAtomicPtrArray.h>
+#include <utl/aglAtomicPtrArray.h>
 #include <array>
 #include <basis/seadTypes.h>
 #include <container/seadSafeArray.h>

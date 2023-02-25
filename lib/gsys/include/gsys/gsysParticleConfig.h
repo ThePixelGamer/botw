@@ -1,9 +1,9 @@
 #pragma once
 
-#include <agl/utl/aglParameter.h>
-#include <agl/utl/aglParameterIO.h>
-#include <agl/utl/aglParameterObj.h>
 #include <hostio/seadHostIONode.h>
+#include <utl/aglParameter.h>
+#include <utl/aglParameterIO.h>
+#include <utl/aglParameterObj.h>
 
 namespace gsys {
 

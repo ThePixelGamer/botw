@@ -1,6 +1,6 @@
 #pragma once
 
-#include <agl/utl/aglParameterObj.h>
+#include <utl/aglParameterObj.h>
 #include <hostio/seadHostIONode.h>
 #include "KingSystem/Utils/Types.h"
 

@@ -1,10 +1,10 @@
 #pragma once
 
-#include <agl/utl/aglParameter.h>
-#include <agl/utl/aglParameterList.h>
-#include <agl/utl/aglParameterObj.h>
 #include <container/seadBuffer.h>
 #include <prim/seadRuntimeTypeInfo.h>
+#include <utl/aglParameter.h>
+#include <utl/aglParameterList.h>
+#include <utl/aglParameterObj.h>
 #include "KingSystem/Physics/RigidBody/Shape/physShape.h"
 #include "KingSystem/Physics/physDefines.h"
 #include "KingSystem/Utils/Types.h"

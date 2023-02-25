@@ -1,5 +1,5 @@
 #include "KingSystem/ActorSystem/Awareness/actAwarenessDefs.h"
-#include <agl/utl/aglParameter.h>
+#include <utl/aglParameter.h>
 #include <container/seadSafeArray.h>
 
 namespace ksys::act {

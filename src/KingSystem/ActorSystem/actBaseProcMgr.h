@@ -1,6 +1,6 @@
 #pragma once
 
-#include <agl/utl/aglAtomicPtrArray.h>
+#include <utl/aglAtomicPtrArray.h>
 #include <container/seadBuffer.h>
 #include <container/seadOffsetList.h>
 #include <container/seadPtrArray.h>

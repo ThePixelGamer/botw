@@ -1,6 +1,6 @@
 #pragma once
 
-#include <agl/utl/aglParameterIO.h>
+#include <utl/aglParameterIO.h>
 #include <hostio/seadHostIONode.h>
 #include <math/seadVector.h>
 #include <prim/seadSafeString.h>
